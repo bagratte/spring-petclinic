@@ -1,0 +1,4 @@
+**
+# Dockerfile needed for com.spotify.dockerfile-maven-plugin
+!Dockerfile
+!target/*.jar
